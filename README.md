@@ -8,7 +8,8 @@ This is the list of Lao Natural Language Processing.
 - yunshan_cup_2020: corpus from https://github.com/GKLMIP/Yunshan-Cup-2020 
 
 ### Dictionary
-- Ministry of Posts and Telecommunications (MOPT) dictionary https://github.com/google/language-resources/
+- Ministry of Posts and Telecommunications (MOPT) dictionary https://github.com/google/language-resources/tree/master/third_party/lo_dictionary_by_mopt_laos
+- lo_spellcheck_dict https://github.com/google/language-resources/tree/master/lo/data_sets
 
 ### Parallel corpus
 - Thai Lao Parallel corpus https://github.com/PyThaiNLP/Thai-Lao-Parallel-Corpus
