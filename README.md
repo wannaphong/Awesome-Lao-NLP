@@ -26,6 +26,9 @@ This is the list of Lao Natural Language Processing.
 - [LaoNLP](https://github.com/wannaphong/laonlp) - Lao language Natural Language Processing toolkit
 - [Chamkho](https://github.com/veer66/chamkho) - Khmer, Lao, Myanmar, and Thai word segmentation/breaking library and command line
 
+### C/C++
+- [ICU](https://icu.unicode.org/) - International Components for Unicode
+
 ### Perl
 - [Lingua::LO::NLP](https://github.com/mbethke/Lingua-LO-NLP) - Various Lao text processing functions
 
