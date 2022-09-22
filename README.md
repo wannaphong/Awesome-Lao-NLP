@@ -20,6 +20,9 @@ This is the list of Lao Natural Language Processing.
 - OSCAR: Open Super-large Crawled Aggregated coRpus https://oscar-corpus.com/
 - Common Crawl corpus https://commoncrawl.org/
 
+## Speech Recognition
+- FLEURS https://huggingface.co/datasets/google/fleurs
+
 ## Libraries
 
 ### Python
