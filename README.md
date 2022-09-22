@@ -20,7 +20,7 @@ This is the list of Lao Natural Language Processing.
 - OSCAR: Open Super-large Crawled Aggregated coRpus https://oscar-corpus.com/
 - Common Crawl corpus https://commoncrawl.org/
 
-## Speech Recognition
+### Speech Recognition
 - FLEURS https://huggingface.co/datasets/google/fleurs
 
 ## Libraries
@@ -28,6 +28,7 @@ This is the list of Lao Natural Language Processing.
 ### Python
 - [LaoNLP](https://github.com/wannaphong/laonlp) - Lao language Natural Language Processing toolkit
 - [Chamkho](https://github.com/veer66/chamkho) - Khmer, Lao, Myanmar, and Thai word segmentation/breaking library and command line
+- [Whisper](https://github.com/openai/whisper) - Whisper is a general-purpose speech recognition model.
 
 ### C/C++
 - [ICU](https://icu.unicode.org/) - International Components for Unicode
