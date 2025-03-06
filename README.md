@@ -23,6 +23,9 @@ This is the list of Lao Natural Language Processing.
 ### Speech Recognition
 - FLEURS https://huggingface.co/datasets/google/fleurs
 
+## Text classification
+- Lao News classification https://huggingface.co/datasets/wannaphong/LaoNewsClassification
+
 ## Libraries
 
 ### Python
